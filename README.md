@@ -31,7 +31,7 @@
 
 | 最终设计图 | 飞行数据图 |
 | :----------: | :----------: |
-| ![Genesis-1 Design](你的火箭设计图截图路径) | ![Genesis-1 Simulation](你的飞行仿真图截图路径) |
+| ![Genesis-1 Design](Genesis-1-Design.png) | ![Genesis-1 Simulation](Genesis-1-Simulation.png) |
 | *安装C6-5发动机后，通过调整尾翼高度，稳定性最终达到0.57 cal。* | *模拟最高点(Apogee)达到约162米。* |
 
 ### 我学到了什么 (What I Learned)
